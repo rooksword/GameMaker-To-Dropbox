@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SaveToDropbox",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SaveToDropbox",
+  "parent":{
+    "name":"GoogleDriveUpload",
+    "path":"GoogleDriveUpload.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,37 @@
+{
+  "$GMProject":"",
+  "%Name":"GoogleDriveUpload",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.6.0.157",
+  },
+  "name":"GoogleDriveUpload",
+  "resources":[
+    {"id":{"name":"obj_savetodropbox","path":"objects/obj_savetodropbox/obj_savetodropbox.yy",},},
+    {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
+    {"id":{"name":"RetreiveAccessToken","path":"scripts/RetreiveAccessToken/RetreiveAccessToken.yy",},},
+    {"id":{"name":"SaveFiles","path":"scripts/SaveFiles/SaveFiles.yy",},},
+    {"id":{"name":"SaveToDropbox","path":"scripts/SaveToDropbox/SaveToDropbox.yy",},},
+    {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

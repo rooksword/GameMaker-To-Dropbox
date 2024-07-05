@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"RetreiveAccessToken",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"RetreiveAccessToken",
+  "parent":{
+    "name":"GoogleDriveUpload",
+    "path":"GoogleDriveUpload.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
