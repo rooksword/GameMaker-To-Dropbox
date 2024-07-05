@@ -2,8 +2,8 @@
 
 // Get these two values from the Dropbox developer console
 
-app_key = "v6u4574by8mltbc";
-app_secret = "9p7vmv13zllw7dp";
+app_key = "";
+app_secret = "";
 
 /*
 
@@ -14,15 +14,15 @@ Then login and note down the authorization code
 Run this Curl command at reqbin.com/curl to get the refresh token
 
 curl
--d code=Su9sF3iI6_UAAAAAAAAAGP2X1ch9EyIyi6mbDLMCbc8
+-d code=<AUTHORIZATION CODE>
 -d grant_type=authorization_code
--d client_id=v6u4574by8mltbc
--d client_secret=9p7vmv13zllw7dp
+-d client_id=<APP KEY>
+-d client_secret=<APP SECRET>
 https://api.dropbox.com/oauth2/token
 
 */
 
-refresh_token = "OI651Yt1mt4AAAAAAAAAASSn-aVIbIbI6y77Y83MMtzxQfk6G3zTULsiTIICgZM1";
+refresh_token = "";
 
 // Will be undefined initially until the refresh token is exchanged for a short-lived access token
 
